@@ -1,4 +1,4 @@
-# Iosevka SS02 WebFont 27.3.0
+# Iosevka SS02 WebFont 27.3.1
 
 ## How to use
 
